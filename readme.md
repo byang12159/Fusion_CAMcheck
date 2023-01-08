@@ -4,12 +4,19 @@ Utilizes Fusion360 API Integration to check operations and settings in the Manuf
 
 Built for UIUC ME270
 
+## Prerequisites
+
+Only 1 setup in manufacturing operations created
+
 ## Getting Started
 
-Official Autodesk Fusion360 guide for script add-ins:
+Official Autodesk Fusion360 guide for script add-ins:<br>
 https://help.autodesk.com/view/fusion360/ENU/?guid=GUID-9701BBA7-EC0E-4016-A9C8-964AA4838954
 
 Run program python file using the scripting add-in function within the Fusion360 GUI
+
+## Use Cases
+
 
 
 ## Authors
