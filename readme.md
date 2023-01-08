@@ -1,37 +1,16 @@
-# Project Title
+# Fusion_CAMcheck: 
 
-Simple overview of use/purpose.
+Utilizes Fusion360 API Integration to check operations and settings in the Manufacturing tab 
 
-## Description
-
-An in-depth paragraph about your project and overview of use.
+Built for UIUC ME270
 
 ## Getting Started
 
-### Dependencies
+Official Autodesk Fusion360 guide for script add-ins:
+https://help.autodesk.com/view/fusion360/ENU/?guid=GUID-9701BBA7-EC0E-4016-A9C8-964AA4838954
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+Run program python file using the scripting add-in function within the Fusion360 GUI
 
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
