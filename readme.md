@@ -4,7 +4,7 @@ Utilizes Fusion360 API Integration to check operations and settings in the Manuf
 
 Built for UIUC ME270
 
-
+## Basic Functions
 
 ## Getting Started
 
