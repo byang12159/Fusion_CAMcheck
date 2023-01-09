@@ -4,38 +4,30 @@ Utilizes Fusion360 API Integration to check operations and settings in the Manuf
 
 Built for UIUC ME270
 
-## Prerequisites
 
-Only 1 setup in manufacturing operations created
 
 ## Getting Started
 
 Official Autodesk Fusion360 guide for script add-ins:<br>
 https://help.autodesk.com/view/fusion360/ENU/?guid=GUID-9701BBA7-EC0E-4016-A9C8-964AA4838954
 
-Run program python file using the scripting add-in function within the Fusion360 GUI
+To run program, click on ADD-INS in the UTILITIES tab of the MANUFACTURE workspace. 
+
+![image](Background_Files/CAM_addin.png)
+
+select the downloaded python program file and run.
+
+![image](Background_Files/CAM_run.png)
 
 ## Use Cases
 
+## Troubleshooting
 
+Per course instructions document, Setup should have only one setup created. This can be viewed in the tree on the left side of the workspace screen.
+![image](Background_Files/CAM_Tree.png)
 
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the MIT License 
 
-## Acknowledgments
